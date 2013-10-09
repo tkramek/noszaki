@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	galleryStyle="MODERN"
+	title="Noszakowa Galeria"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="5"
+	thumbPosition="RIGHT"
+	thumbColumns="4"
+	thumbRows="3"
+	showOpenButton="FALSE"
+	showFullscreenButton="TRUE"
+	maxImageWidth="620"
+	maxImageHeight="620"
+	useFlickr="false"
+	languageCode="AUTO"
+	languageList=""
+	imagePath="images/"
+	thumbPath="thumbs/"
+	resizeOnImport="true"
+	cropToFit="false"
+	indexPageName="viewer.html"
+	captionPosition="TOP"
+	captionFontSize="13"
+	imageNumberFontSize="11"
+	titlePosition="LEFT"
+	titleFontColor="FFFFFF"
+	thumbNavPosition="BOTTOM"
+	imageFrameStyle="SQUARE"
+	floatCaption="false"
+	captionTextAlignment="RIGHT"
+	captionWidth="300"
+	showImageNumber="false"
+	stageVPadding="60"
+	stageBorder="60"
+
+>
+  <image imageURL="images/P1110201.JPG"
+	thumbURL="thumbs/P1110201.JPG"
+	linkURL="images/P1110201.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[kangurek]]></caption>
+  </image>
+  <image imageURL="images/23.JPG"
+	thumbURL="thumbs/23.JPG"
+	linkURL="images/23.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA["od dziś nosimy się w kangurku" - tato Marcin po konsultacjach]]></caption>
+  </image>
+  <image imageURL="images/22.JPG"
+	thumbURL="thumbs/22.JPG"
+	linkURL="images/22.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[przytulanie w kangurku ]]></caption>
+  </image>
+  <image imageURL="images/01b.JPG"
+	thumbURL="thumbs/01b.JPG"
+	linkURL="images/01b.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[i jak? spoko!]]></caption>
+  </image>
+  <image imageURL="images/P1110241.JPG"
+	thumbURL="thumbs/P1110241.JPG"
+	linkURL="images/P1110241.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[opinia Kasi i Jarka: "podobało nam się to, że na zmianę słuchaliśmy i ćwiczyliśmy przez co słuchanie nas nie znudziło, a ćwiczenie nie zmęczyło. Dobre było powtarzanie wszystkich czynności kilka razy na każdym etapie. (...) wynieśliśmy konkretną wiedzę."]]></caption>
+  </image>
+  <image imageURL="images/02.JPG"
+	thumbURL="thumbs/02.JPG"
+	linkURL="images/02.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[plecak prosty - dumny tato Tomek i śpiący Kubuś]]></caption>
+  </image>
+  <image imageURL="images/08.JPG"
+	thumbURL="thumbs/08.JPG"
+	linkURL="images/08.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[siodełko u taty Tomka]]></caption>
+  </image>
+  <image imageURL="images/13.JPG"
+	thumbURL="thumbs/13.JPG"
+	linkURL="images/13.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[siodełko u mamy Kasi]]></caption>
+  </image>
+  <image imageURL="images/04.JPG"
+	thumbURL="thumbs/04.JPG"
+	linkURL="images/04.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[plecak prosty (tylko chusta nieco długa... trzy razy wokół bioder:)]]></caption>
+  </image>
+  <image imageURL="images/P1100805.JPG"
+	thumbURL="thumbs/P1100805.JPG"
+	linkURL="images/P1100805.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[plecak prosty]]></caption>
+  </image>
+  <image imageURL="images/05.JPG"
+	thumbURL="thumbs/05.JPG"
+	linkURL="images/05.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[plecak z krzyżem - u starszaka]]></caption>
+  </image>
+  <image imageURL="images/14.JPG"
+	thumbURL="thumbs/14.JPG"
+	linkURL="images/14.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[plecak z krzyżem ]]></caption>
+  </image>
+  <image imageURL="images/07.JPG"
+	thumbURL="thumbs/07.JPG"
+	linkURL="images/07.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[stymulacja wszystkich zmysłów - zmysłu smaku również]]></caption>
+  </image>
+  <image imageURL="images/09.JPG"
+	thumbURL="thumbs/09.JPG"
+	linkURL="images/09.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[spacer w "mietku" (nosidło mei tai)]]></caption>
+  </image>
+  <image imageURL="images/11.JPG"
+	thumbURL="thumbs/11.JPG"
+	linkURL="images/11.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[mei tai w lesie]]></caption>
+  </image>
+  <image imageURL="images/10.JPG"
+	thumbURL="thumbs/10.JPG"
+	linkURL="images/10.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[mei tai na zamku]]></caption>
+  </image>
+  <image imageURL="images/17.jpg"
+	thumbURL="thumbs/17.jpg"
+	linkURL="images/17.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[dumni tatusiowie chuściaków]]></caption>
+  </image>
+  <image imageURL="images/01a.JPG"
+	thumbURL="thumbs/01a.JPG"
+	linkURL="images/01a.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[noszenie nie zawsze jest łatwe - odsłona 1]]></caption>
+  </image>
+  <image imageURL="images/09a.JPG"
+	thumbURL="thumbs/09a.JPG"
+	linkURL="images/09a.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[noszenie nie zawsze jest łatwe - odsłona 2]]></caption>
+  </image>
+  <image imageURL="images/18.JPG"
+	thumbURL="thumbs/18.JPG"
+	linkURL="images/18.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[co jeszcze można zrobić z chustą - odsłona 1]]></caption>
+  </image>
+  <image imageURL="images/19.JPG"
+	thumbURL="thumbs/19.JPG"
+	linkURL="images/19.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[co jeszcze można zrobić z chustą - odsłona 2]]></caption>
+  </image>
+  <image imageURL="images/21.JPG"
+	thumbURL="thumbs/21.JPG"
+	linkURL="images/21.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[co jeszcze można zrobić z chustą - odsłona 3]]></caption>
+  </image>
+  <image imageURL="images/20.JPG"
+	thumbURL="thumbs/20.JPG"
+	linkURL="images/20.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[co jeszcze można zrobić z mei tajem]]></caption>
+  </image>
+</simpleviewergallery>
